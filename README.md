@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/xXHic3S' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/xXHic3S' title='Video Walkthrough' width='' alt='Video Walkthrough'>
 
 The GIF does not seem to be embedding properly. It can also be found [here](https://i.imgur.com/xXHic3S.gif).
 
@@ -32,7 +32,7 @@ GIF recorded with QuickTime and edited/converted to a GIF with DaVinci Resolve.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No major challenges with this project.
 
 ## License
 

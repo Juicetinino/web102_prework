@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='https://i.imgur.com/xXHic3S' title='Video Walkthrough' width='' alt='Video Walkthrough'> -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xXHic3S" data-context="false" ><a href="//imgur.com/a/xXHic3S"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/xXHic3S' title='Video Walkthrough' width='' alt='Video Walkthrough'>
 
 The GIF does not seem to be embedding properly. It can also be found [here](https://i.imgur.com/xXHic3S.gif).
 

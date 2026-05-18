@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://i.imgur.com/xXHic3S' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 The GIF does not seem to be embedding properly. It can also be found [here](https://i.imgur.com/xXHic3S.gif).
+<a href="https://i.imgur.com/xXHic3S.gif" target="_blank">here.</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF recorded with QuickTime and edited/converted to a GIF with DaVinci Resolve.
